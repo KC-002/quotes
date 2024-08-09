@@ -106,6 +106,7 @@ a:hover{
     }
     .box{
         height: calc(100vh - 65px);
+        background-position: -90px;
     }
 }
 
